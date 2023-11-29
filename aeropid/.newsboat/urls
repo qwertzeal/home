@@ -1,0 +1,19 @@
+# Aeropid's RSS Feed
+
+"query:Webpages:tags # \"Webpages\""
+"query:Videos:tags # \"Videos\""
+
+# Webpages
+
+https://lukesmith.xyz/index.xml "Webpages"
+https://ericmurphy.xyz/index.xml "Webpages"
+
+# YouTube
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5KDiSAFxrDWhmysBcNqtMA "Videos" # Eric Murphy
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "Videos" # Luke Smith
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "Videos" # Mental Outlaw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "Videos" # Brodie Robertson
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5U7mHlhP6s6478wd7ZvnhA "Videos" # Trafotin
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q "Videos" # The Hated One
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw "Videos" # The Linux Experiment
